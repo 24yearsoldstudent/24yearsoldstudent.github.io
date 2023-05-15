@@ -17,6 +17,6 @@ My research interests are Human-Computer Interaction(HCI), Social Computing and 
  
 
  * **Semi-supervised Segmentation of Mitochondria from Electron Microscopy Images using Spatial Continuity.**  
-  **Yunpeng Xiao**, [Youpeng Zhao](kennethzhao24.github.io), Ge Yang.  
+  **Yunpeng Xiao**, [Youpeng Zhao](https://kennethzhao24.github.io/), Ge Yang.  
   IEEE International Symposium on Biomedical Imaging (**ISBI**) 2022 Poster.
 
