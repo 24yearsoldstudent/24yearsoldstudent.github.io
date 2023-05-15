@@ -1,13 +1,3 @@
----
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 Hi, my name is Yunpeng Xiao(肖云鹏), I will be a Ph.D. student at Illinois Institute of Technology advised by Prof. Kai Shu. Before joining IIT I obtained my M.S. degree in Computer Science from University of Chinese Academy of Sciences, and B.S. degree in Applied Biosciences from Zhejiang University.
 
 Publications
