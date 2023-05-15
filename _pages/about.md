@@ -14,5 +14,7 @@ Hi, my name is Yunpeng Xiao(肖云鹏), I will be a Ph.D. student at Illinois In
 My research interests are Human-Computer Interaction(HCI), Social Computing and The Ethics of Science. I enjoy talking with people to get new ideas, so please feel free to contact me by Email.
 
 ## Publications
-**Yunpeng Xiao**, Youpeng Zhao, Ge Yang. Semi-supervised Segmentation of Mitochondria from Electron Microscopy Images using Spatial Continuity. IEEE International Symposium on Biomedical Imaging (ISBI) 2022 Poster.
+  * **Semi-supervised Segmentation of Mitochondria from Electron Microscopy Images using Spatial Continuity.**
+  **Yunpeng Xiao**, [Youpeng Zhao](kennethzhao24.github.io), Ge Yang.  
+IEEE International Symposium on Biomedical Imaging (**ISBI**) 2022 Poster.
 
