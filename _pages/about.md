@@ -1,16 +1,3 @@
----
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-About Me
-======
-
 Hi, my name is Yunpeng Xiao(肖云鹏), I will be a Ph.D. student at Illinois Institute of Technology advised by Prof. Kai Shu. Before joining IIT I obtained my M.S. degree in Computer Science from University of Chinese Academy of Sciences, and B.S. degree in Applied Biosciences from Zhejiang University.
 
 My research interests are Human-Computer Interaction(HCI), Social Computing and The Ethics of Science. I enjoy interacting with people who think differently, so please feel free to contact me by Email.
