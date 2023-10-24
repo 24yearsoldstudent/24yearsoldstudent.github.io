@@ -20,3 +20,7 @@ My research interests are Human-Computer Interaction (HCI), Social Computing and
   IEEE International Symposium on Biomedical Imaging (**ISBI**) 2022 Poster.
   \[[Arxiv](https://arxiv.org/abs/2206.02392)\] [[Codes](https://github.com/cbmi-group/MPP)]
 
+ * **"Centralized or Decentralized?": Concerns and Value Judgments of Stakeholders in the Non-Fungible Tokens (NFTs) Market.**  
+  **Yunpeng Xiao**, Bufan Deng, Siqi Chen, Kyrie Zhou, Luyao Zhang, RAY LC, Xin Tong.  
+  Accepted to The 27th ACM Conference On Computer-Supported Cooperative Work And Social Computing(**CSCW**).
+
