@@ -22,5 +22,5 @@ My research interests are Human-Computer Interaction (HCI), Social Computing and
 
  * **"Centralized or Decentralized?": Concerns and Value Judgments of Stakeholders in the Non-Fungible Tokens (NFTs) Market.**  
   **Yunpeng Xiao**, Bufan Deng, Siqi Chen, Kyrie Zhou, Luyao Zhang, RAY LC, Xin Tong.  
-  Accepted to The 27th ACM Conference On Computer-Supported Cooperative Work And Social Computing (**CSCW**).
+  Accepted to The 27th ACM Conference On Computer-Supported Cooperative Work And Social Computing (**CSCW**) 2024. \[[Arxiv](https://arxiv.org/abs/2311.10990)\]
 
