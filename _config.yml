@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunpeng Xiao's Homepage"
 title_separator          : "-"
 name                     : &name "Yunpeng Xiao"  
-description              : &description "Prepared Ph.D. student at Illinois Institute of Technology"  
+description              : &description "Ph.D. student at Emory University"  
 url                      : https://24yearsoldstudent.github.io   # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "24yearsoldstudent.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yunpeng Xiao"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student at Illinois Institute of Technology"
-  location         : "Chicago, IL"
+  bio              : "Ph.D. student at Emory University"
+  location         : "Atlanta, GA"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            :  "yxiao28@hawk.iit.edu"
+  email            :  "yxia326@emory.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
