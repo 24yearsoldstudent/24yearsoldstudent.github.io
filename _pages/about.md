@@ -24,3 +24,6 @@ My research interests are Human-Computer Interaction (HCI), Social Computing, an
   **Yunpeng Xiao**, Bufan Deng, Siqi Chen, Kyrie Zhou, Luyao Zhang, RAY LC, Xin Tong.  
   Accepted to The 27th ACM Conference On Computer-Supported Cooperative Work And Social Computing (**CSCW**) 2024. \[[Arxiv](https://arxiv.org/abs/2311.10990)\]
 
+ * **Understanding and Tackling Label Errors in Individual-Level Nature Language Understanding**  
+  **Yunpeng Xiao**, Youpeng Zhao, Kai Shu.  
+  \[[Arxiv](https://arxiv.org/abs/2502.13297)\] \[[Datasets](https://github.com/24yearsoldstudent/Individual-NLU)\]
