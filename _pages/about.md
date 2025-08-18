@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Bio
-Hi, my name is Yunpeng Xiao (肖云鹏). I am a second-year Ph.D. student at Emory University, advised by Prof. Kai Shu. Before joining Emory University, I obtained my M.S. in Computer Science from the University of Chinese Academy of Sciences and my B.S. in Applied Biosciences from Zhejiang University.
+Hi, my name is Yunpeng Xiao (肖云鹏). I am a third-year Ph.D. student at Emory University, advised by Prof. [Kai Shu](https://www.cs.emory.edu/~kshu5/)). Before joining Emory University, I obtained my M.S. in Computer Science from the University of Chinese Academy of Sciences and my B.S. in Applied Biosciences from Zhejiang University.
 
 My research interests are Human-Computer Interaction (HCI), Social Computing, and The Ethics of Science. I enjoy talking with people to get new ideas, so please feel free to contact me by Email.
 
