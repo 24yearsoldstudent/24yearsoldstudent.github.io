@@ -9,11 +9,21 @@ redirect_from:
 ---
 
 ## Bio
-Hi, my name is Yunpeng Xiao (肖云鹏). I am a third-year Ph.D. student at Emory University, advised by Prof. [Kai Shu](https://www.cs.emory.edu/~kshu5/). Before joining Emory University, I obtained my M.S. in Computer Science from the University of Chinese Academy of Sciences and my B.S. in Applied Biosciences from Zhejiang University.
+Hi, my name is Yunpeng Xiao (肖云鹏). I am a fourth-year Ph.D. student at Emory University, advised by Prof. [Kai Shu](https://www.cs.emory.edu/~kshu5/). Before joining Emory University, I obtained my M.S. in Computer Science from the University of Chinese Academy of Sciences and my B.S. in Applied Biosciences from Zhejiang University.
 
-My research interests are Social Computing, and The Ethics of Science. I enjoy talking with people to get new ideas, so please feel free to contact me by Email.
+My research interests are Social Computing and LLM reasoning. I enjoy talking with people to get new ideas, so please feel free to contact me by Email.
 
 ## Publications
+
+ * **Decisions by Discrimination: Differential Evidence for Medical Reasonin **
+   **Yunpeng Xiao**, Yuzhang Xie, Juhao Huang, Carl Yang, Xiao Hu and Kai Shu.
+   **AACL 2026 (main)**
+
+ * **Understanding and Tackling Label Errors in Individual-Level Nature Language Understanding**  
+  **Yunpeng Xiao**, Kyrie Zhixuan Zhou, Youpeng Zhao, Kai Shu.
+   **ASONAM 2026 Best Paper Reward**
+  \[[Arxiv](https://arxiv.org/abs/2502.13297)\] \[[Datasets](https://github.com/24yearsoldstudent/Individual-NLU)\]
+
  
  * **Semi-supervised Segmentation of Mitochondria from Electron Microscopy Images using Spatial Continuity.**  
   **Yunpeng Xiao**, [Youpeng Zhao](https://kennethzhao24.github.io/), Ge Yang.  
@@ -23,7 +33,3 @@ My research interests are Social Computing, and The Ethics of Science. I enjoy t
  * **"Centralized or Decentralized?": Concerns and Value Judgments of Stakeholders in the Non-Fungible Tokens (NFTs) Market.**  
   **Yunpeng Xiao**, Bufan Deng, Siqi Chen, Kyrie Zhou, Luyao Zhang, RAY LC, Xin Tong.  
   Accepted to The 27th ACM Conference On Computer-Supported Cooperative Work And Social Computing (**CSCW**) 2024. \[[Arxiv](https://arxiv.org/abs/2311.10990)\]
-
- * **Understanding and Tackling Label Errors in Individual-Level Nature Language Understanding**  
-  **Yunpeng Xiao**, Youpeng Zhao, Kai Shu.  
-  \[[Arxiv](https://arxiv.org/abs/2502.13297)\] \[[Datasets](https://github.com/24yearsoldstudent/Individual-NLU)\]
