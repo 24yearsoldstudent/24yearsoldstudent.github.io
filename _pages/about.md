@@ -15,12 +15,12 @@ My research interests are Social Computing and LLM reasoning. I enjoy talking wi
 
 ## Publications
 
- * **Decisions by Discrimination: Differential Evidence for Medical Reasonin**
-   **Yunpeng Xiao**, Yuzhang Xie, Juhao Huang, Carl Yang, Xiao Hu and Kai Shu.
+ * **Decisions by Discrimination: Differential Evidence for Medical Reasoning.**\
+   **Yunpeng Xiao**, Yuzhang Xie, Juhao Huang, Carl Yang, Xiao Hu and Kai Shu.\
    **AACL 2026 (main)**
 
- * **Understanding and Tackling Label Errors in Individual-Level Nature Language Understanding**  
-  **Yunpeng Xiao**, Kyrie Zhixuan Zhou, Youpeng Zhao, Kai Shu.
+ * **Understanding and Tackling Label Errors in Individual-Level Nature Language Understanding.** \
+  **Yunpeng Xiao**, Kyrie Zhixuan Zhou, Youpeng Zhao, Kai Shu.\
    **ASONAM 2026 Best Paper Reward**
   \[[Arxiv](https://arxiv.org/abs/2502.13297)\] \[[Datasets](https://github.com/24yearsoldstudent/Individual-NLU)\]
 
