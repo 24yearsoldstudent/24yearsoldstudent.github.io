@@ -15,7 +15,7 @@ My research interests are Social Computing and LLM reasoning. I enjoy talking wi
 
 ## Publications
 
- * **Decisions by Discrimination: Differential Evidence for Medical Reasonin **
+ * **Decisions by Discrimination: Differential Evidence for Medical Reasonin**
    **Yunpeng Xiao**, Yuzhang Xie, Juhao Huang, Carl Yang, Xiao Hu and Kai Shu.
    **AACL 2026 (main)**
 
