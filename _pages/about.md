@@ -21,7 +21,7 @@ My research interests are Social Computing and LLM reasoning. I enjoy talking wi
 
  * **Understanding and Tackling Label Errors in Individual-Level Nature Language Understanding.** \
   **Yunpeng Xiao**, Kyrie Zhixuan Zhou, Youpeng Zhao, Kai Shu.\
-   **ASONAM 2026 Best Paper Reward**
+   **ASONAM 2026 Best Paper Award**
   \[[Arxiv](https://arxiv.org/abs/2502.13297)\] \[[Datasets](https://github.com/24yearsoldstudent/Individual-NLU)\]
 
  
